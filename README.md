@@ -1,7 +1,7 @@
 # Image Generation using GAN (Generative Adversarial Networks)
 
 
-<img src="images/imagesgan_outputs_pytorch.png" width="100%"/>
+<img src="images/gan_outputs_pytorch.png" width="100%"/>
 
 In this notebook, we will expand our repetoire, and build generative models using neural networks. Specifically, we will learn how to build models which generate novel images that resemble a set of training images. 
 
